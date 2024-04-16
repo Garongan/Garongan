@@ -7,7 +7,7 @@ I'm a full stack developer...
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://porto-alvindo.vercel.app/)
+[![portfolio](https://img.shields.io/badge/Portfolio-FF4785?style=flat&logo=campaignmonitor&logoColor=white)](https://porto-alvindo.vercel.app/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvindo-tri-jatmiko-3848441b8/)
 
