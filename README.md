@@ -5,6 +5,9 @@
 ### I'm a clean code enthusiast
 🔭 I’m currently bootcamp on EgnimaCamp Malang<br>👯 I’m looking to collaborate on React Native, React js, and Java<br>🤝 I’m looking for help .NET, Angular, Vue js<br>🌱 I’m currently learning Angular, .NET, Java SpringBoot, Vue js, Golang, Bussines Analiyst, Data Engineer, and Quality Assurance<br>💬 Ask me about Java Springboot, React js, and React Native
 
+## 📝 Resume:
+[Resume Link](https://www.canva.com/design/DAGFRS7eV1U/d1NtSzZRt89qsnBC9QNhzg/edit)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alvindotri.j) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alvindo-tri-jatmiko-3848441b8) 
