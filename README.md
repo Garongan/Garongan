@@ -3,7 +3,8 @@
 
 # 💫 About Me:
 ### I'm a clean code enthusiast
-🔭 I’m currently bootcamp on EgnimaCamp Malang<br>👯 I’m looking to collaborate on React Native, React js, and Java<br>🤝 I’m looking for help .NET, Angular, Vue js<br>🌱 I’m currently learning Angular, .NET, Java SpringBoot, Vue js, Golang, Bussines Analiyst, Data Engineer, and Quality Assurance<br>💬 Ask me about Java Springboot, React js, and React Native
+🔭 Im programmer with strong will to create clean code and implement
+the clean architecture, Work as team, fast response, and hard worker. Developing Web App, Rest API, and Mobile Apps. 
 
 ## 📝 Resume:
 [Resume Link](https://www.canva.com/design/DAGFRS7eV1U/d1NtSzZRt89qsnBC9QNhzg/edit)
