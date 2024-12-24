@@ -6,6 +6,10 @@
 🔭 Im programmer with strong will to create clean code and implement
 the clean architecture, Work as team, fast response, and hard worker. Developing Web App, Rest API, and Mobile Apps. 
 
+[Frontend Portfolio](https://porto-alvindo.vercel.app/)
+[Backend Portfolio](https://sites.google.com/view/portfolio-backend)
+[Mobile Portfolio](https://sites.google.com/view/portfolio-alvindo-mobile)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alvindotri.j) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alvindo-tri-jatmiko-3848441b8) 
 
