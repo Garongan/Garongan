@@ -2,9 +2,7 @@
 # Hi, I'm Alvindo Tri Jatmiko! 👋
 
 # 💫 About Me:
-### I'm a clean code enthusiast
-🔭 Im programmer with strong will to create clean code and implement
-the clean architecture, Work as team, fast response, and hard worker. Developing Web App, Rest API, and Mobile Apps. 
+My key skills include human-centered design, product development, user research, usability testing, and problem-solving, which align with my interest in mobile and backend development. My experience at the Apple Developer Academy deepened my understanding of design methodologies, teamwork, and decision-making. I completed research and product development projects, enhancing my technical and analytical skills. I’m open-minded, easy to connect with, enthusiastic about challenges, eager to learn, and naturally cheerful, making me a great collaborator and adaptable in dynamic environments.
 
 [Portfolio](https://porto-alvindo.vercel.app/)
 
